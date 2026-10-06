@@ -2,9 +2,9 @@ from wegnologyrest import Client
 import time
 import random
 
-DEVICE_ID = "6ac54fc02d90ac6fdceef666"
-APP_KEY = "4b94f92a-0a29-4504-b192-03af4e3e5278"
-APP_SECRET = "eee191067a3ac5fbcc3c2f13849d3a8b336124c7a8ba9589d9c341ced05210f7"
+DEVICE_ID = " "
+APP_KEY = " "
+APP_SECRET = " "
 
 creds = {
     'deviceId': DEVICE_ID,
